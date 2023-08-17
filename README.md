@@ -9,5 +9,5 @@ Some key feautures of the application include:
 3. All entered data is validated using certain factors, and the user is notified if the data validation fails.
 4. The user can see a list of all the expenses made.
 5. The user can delete any expense made.
-6. The user is also shown a bar graph chart, in order to help him/her analyse teh spendings in various different categories like, Food, Travel, Leisure, etc.
+6. The user is also shown a bar graph chart, in order to help him/her analyse the spendings in various different categories like, Food, Travel, Leisure, etc.
   
