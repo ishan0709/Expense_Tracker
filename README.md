@@ -1,16 +1,13 @@
 # expense_tracker
 
-A new Flutter project.
+This is a mobile application built using flutter, to help keep track of your daily expenses.
 
-## Getting Started
+Some key feautures of the application include:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. The app supports both light and dark themes, which are set automatically by default according to user's phone settings.
+2. In order to add a new expense, User needs to add the name of the expense, amount, date of expense, and a relevant image.
+3. All entered data is validated using certain factors, and the user is notified if the data validation fails.
+4. The user can see a list of all the expenses made.
+5. The user can delete any expense made.
+6. The user is also shown a bar graph chart, in order to help him/her analyse teh spendings in various different categories like, Food, Travel, Leisure, etc.
+  
